@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makeevolution
-- 👀 I’m a newbie in software
+- 👀 I’m a software engineer
 - 📫 How to reach me: aldo_hasibuan@yahoo.com
 
 <!---
